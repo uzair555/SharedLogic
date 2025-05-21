@@ -5,3 +5,7 @@ console.log('====================================');
 console.log('====================================');
 console.log("This is my testing which will add in every where");
 console.log('====================================');
+
+console.log('====================================');
+console.log("Thiss is from sharedd logic");
+console.log('====================================');
